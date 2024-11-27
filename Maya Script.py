@@ -2,7 +2,7 @@ import random
 import maya.cmds as cmds
 
 # Variables
-group_name = "Base_convert"
+group_name = "INSERT GROUP NAME"
 percent = 50.0  # Set your percentage of objects to select
 threshold = percent / 100.0  # Since this example uses 50%, a threshold of 0.5 is used
 
